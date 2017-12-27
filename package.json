@@ -1,0 +1,13 @@
+{
+  "name": "seth-server",
+  "version": "0.0.1",
+  "description": "A Seth Server",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamhenson/seth-server.git"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
